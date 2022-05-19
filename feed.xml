@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>TECH</title>
+    <title>TECH - Site Beta Test </title>
     <link href="https://rylimitless.github.io/testing/feed.xml" rel="self" />
     <link href="https://rylimitless.github.io/testing" />
-    <updated>2022-05-18T20:10:10-05:00</updated>
+    <updated>2022-05-18T21:00:36-05:00</updated>
     <author>
         <name>Ry</name>
     </author>
     <id>https://rylimitless.github.io/testing</id>
 
     <entry>
-        <title>Acknowledgement </title>
+        <title>Gallery Test </title>
         <author>
             <name>Ry</name>
         </author>
         <link href="https://rylimitless.github.io/testing/acknowledgement.html"/>
         <id>https://rylimitless.github.io/testing/acknowledgement.html</id>
 
-        <updated>2022-05-18T20:10:10-05:00</updated>
+        <updated>2022-05-18T21:00:18-05:00</updated>
             <summary>
                 <![CDATA[
-                    Well Nessi , How is it?????/
+                        <img src="https://rylimitless.github.io/testing/media/posts/3/2204_w026_n002_1716b_p1_1716.jpg" alt="" />
+                    This is a simple test of the gallery feature
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Well Nessi , How is it?????/</p>
+                    <img src="https://rylimitless.github.io/testing/media/posts/3/2204_w026_n002_1716b_p1_1716.jpg" alt="" />
+                <p>This is a simple test of the gallery feature </p>
 <p> </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-48-01.png" data-size="1366x768"><img loading="lazy" src="https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-48-01-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -38,22 +40,24 @@
         </content>
     </entry>
     <entry>
-        <title>Case 1 </title>
+        <title>Chapter 1 </title>
         <author>
             <name>Ry</name>
         </author>
         <link href="https://rylimitless.github.io/testing/case-1.html"/>
         <id>https://rylimitless.github.io/testing/case-1.html</id>
 
-        <updated>2022-05-18T17:53:52-05:00</updated>
+        <updated>2022-05-18T21:00:36-05:00</updated>
             <summary>
                 <![CDATA[
-                    The sound of the alarm woke.
+                        <img src="https://rylimitless.github.io/testing/media/posts/2/gradient-collage-metaverse-concept-1.jpg" alt="" />
+                    The sound of the alarm woke....................
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The sound of the alarm woke.</p>
+                    <img src="https://rylimitless.github.io/testing/media/posts/2/gradient-collage-metaverse-concept-1.jpg" alt="" />
+                <p>The sound of the alarm woke....................</p>
             ]]>
         </content>
     </entry>
@@ -65,19 +69,19 @@
         <link href="https://rylimitless.github.io/testing/prologue.html"/>
         <id>https://rylimitless.github.io/testing/prologue.html</id>
 
-        <updated>2022-05-18T10:45:18-05:00</updated>
+        <updated>2022-05-18T20:55:26-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rylimitless.github.io/testing/media/posts/1/2204_w026_n002_1716b_p1_1716.jpg" alt="" />
-                    Carson is a great guy
+                        <img src="https://rylimitless.github.io/testing/media/posts/1/gradient-collage-metaverse-concept.jpg" alt="" />
+                    None knew something like that could happen.....&nbsp;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rylimitless.github.io/testing/media/posts/1/2204_w026_n002_1716b_p1_1716.jpg" alt="" />
+                    <img src="https://rylimitless.github.io/testing/media/posts/1/gradient-collage-metaverse-concept.jpg" alt="" />
                 
   <p>
-    Carson is a great guy
+    None knew something like that could happen.....&nbsp;
   </p>
             ]]>
         </content>

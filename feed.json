@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "TECH",
+    "title": "TECH - Site Beta Test ",
     "description": "",
     "home_page_url": "https://rylimitless.github.io/testing",
     "feed_url": "https://rylimitless.github.io/testing/feed.json",
@@ -12,45 +12,47 @@
         {
             "id": "https://rylimitless.github.io/testing/acknowledgement.html",
             "url": "https://rylimitless.github.io/testing/acknowledgement.html",
-            "title": "Acknowledgement ",
-            "summary": "Well Nessi , How is it?????/",
-            "content_html": "<p>Well Nessi , How is it?????/</p>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-48-01.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-48-01-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-49-22.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-49-22-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-55-21.png\" data-size=\"730x422\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-55-21-thumbnail.png\" alt=\"\" width=\"730\" height=\"422\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-58-58.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-58-58-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-59-28.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-59-28-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>",
+            "title": "Gallery Test ",
+            "summary": "This is a simple test of the gallery feature",
+            "content_html": "<p>This is a simple test of the gallery feature </p>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-48-01.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-48-01-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-49-22.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-49-22-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-55-21.png\" data-size=\"730x422\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-55-21-thumbnail.png\" alt=\"\" width=\"730\" height=\"422\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-58-58.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-58-58-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-59-28.png\" data-size=\"1366x768\"><img loading=\"lazy\" src=\"https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-59-28-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>",
+            "image": "https://rylimitless.github.io/testing/media/posts/3/2204_w026_n002_1716b_p1_1716.jpg",
             "author": {
                 "name": "Ry"
             },
             "tags": [
             ],
             "date_published": "2022-05-18T20:10:10-05:00",
-            "date_modified": "2022-05-18T20:10:10-05:00"
+            "date_modified": "2022-05-18T21:00:18-05:00"
         },
         {
             "id": "https://rylimitless.github.io/testing/case-1.html",
             "url": "https://rylimitless.github.io/testing/case-1.html",
-            "title": "Case 1 ",
-            "summary": "The sound of the alarm woke.",
-            "content_html": "<p>The sound of the alarm woke.</p>",
+            "title": "Chapter 1 ",
+            "summary": "The sound of the alarm woke....................",
+            "content_html": "<p>The sound of the alarm woke....................</p>",
+            "image": "https://rylimitless.github.io/testing/media/posts/2/gradient-collage-metaverse-concept-1.jpg",
             "author": {
                 "name": "Ry"
             },
             "tags": [
             ],
             "date_published": "2022-05-18T17:53:52-05:00",
-            "date_modified": "2022-05-18T17:53:52-05:00"
+            "date_modified": "2022-05-18T21:00:36-05:00"
         },
         {
             "id": "https://rylimitless.github.io/testing/prologue.html",
             "url": "https://rylimitless.github.io/testing/prologue.html",
             "title": "Prologue ",
-            "summary": "Carson is a great guy",
-            "content_html": "\n  <p>\n    Carson is a great guy\n  </p>",
-            "image": "https://rylimitless.github.io/testing/media/posts/1/2204_w026_n002_1716b_p1_1716.jpg",
+            "summary": "None knew something like that could happen.....&nbsp;",
+            "content_html": "\n  <p>\n    None knew something like that could happen.....&nbsp;\n  </p>",
+            "image": "https://rylimitless.github.io/testing/media/posts/1/gradient-collage-metaverse-concept.jpg",
             "author": {
                 "name": "Ry"
             },
             "tags": [
             ],
             "date_published": "2022-05-18T10:44:51-05:00",
-            "date_modified": "2022-05-18T10:45:18-05:00"
+            "date_modified": "2022-05-18T20:55:26-05:00"
         }
     ]
 }
