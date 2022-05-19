@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rylimitless.github.io/testing/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://rylimitless.github.io/testing/</loc>
+</url>
+<url>
+<loc>https://rylimitless.github.io/testing/acknowledgement.html</loc>
+<lastmod>2022-05-18T20:10:10-05:00</lastmod>
+<image:image>
+<image:loc>https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-48-01-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-49-22-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-21-21-55-21-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-58-58-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rylimitless.github.io/testing/media/posts/3/gallery/Screenshot-from-2022-04-22-21-59-28-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rylimitless.github.io/testing/case-1.html</loc>
+<lastmod>2022-05-18T17:53:52-05:00</lastmod>
+</url>
+<url>
+<loc>https://rylimitless.github.io/testing/prologue.html</loc>
+<lastmod>2022-05-18T10:45:18-05:00</lastmod>
+<image:image>
+<image:loc>https://rylimitless.github.io/testing/media/posts/1/2204_w026_n002_1716b_p1_1716.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
